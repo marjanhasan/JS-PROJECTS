@@ -1,0 +1,28 @@
+body {
+  width: 300px;
+  max-width: 750px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: #212121;
+  box-sizing: border-box;
+}
+
+#start,
+#stop {
+  background-color: #161616;
+  color: #ffffff;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 20px;
+  border-style: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+h1 {
+  background-color: #7a7a7a;
+  text-align: center;
+  margin: 0;
+  padding: 16px 0;
+}
